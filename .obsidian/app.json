@@ -1,1 +1,13 @@
-{}
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "Исключенные файлы/",
+    "templates/",
+    "Журнал/"
+  ],
+  "newFileLocation": "current"
+}

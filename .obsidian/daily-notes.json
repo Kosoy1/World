@@ -1,0 +1,5 @@
+{
+  "format": "DD _ MM _ YYYY",
+  "folder": "Журнал/Ежедневный",
+  "template": "templates/Daily"
+}

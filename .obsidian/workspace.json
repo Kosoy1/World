@@ -1,14 +1,24 @@
 {
   "main": {
-    "id": "0f1aa7470f1060b7",
+    "id": "46aa497f15acdae6",
     "type": "split",
     "children": [
       {
-        "id": "cfce1b3272baa81d",
+        "id": "0d4fed501b018c14",
         "type": "tabs",
         "children": [
           {
-            "id": "b671ccf023ff85d7",
+            "id": "06f7c4f47ead7939",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "2fc899b020e5b7ea",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,29 +28,33 @@
             }
           },
           {
-            "id": "792c196202c120a5",
+            "id": "1825aef246fe7e1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Свой мир/Магия/Некромантия.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8e8a9d3c46d7efff",
+    "id": "07995164aaba294d",
     "type": "split",
     "children": [
       {
-        "id": "ddecfca4d3ead254",
+        "id": "6347e2766e812c88",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba29cee335a13da",
+            "id": "71b2cef29f16775a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +64,7 @@
             }
           },
           {
-            "id": "3d5177325079831b",
+            "id": "424e700ad4d165df",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +79,7 @@
             }
           },
           {
-            "id": "3e2e74aa752b87de",
+            "id": "f0923c7ef256da09",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,45 +90,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "582a6c04fdfa15b6",
+    "id": "9b314bfcd5b79d22",
     "type": "split",
     "children": [
       {
-        "id": "02d8b4a2e38fc6d8",
+        "id": "33d981e875e6b804",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5543fb8bfa7063",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d4c499e0a2f90ebb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "93e02ea5ab1a61af",
+            "id": "3be800a42bced537",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -125,34 +112,130 @@
             }
           },
           {
-            "id": "98e00715b1842b9f",
+            "id": "ded4348744772e85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Свой мир/Магия/Некромантия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c7d293f09fd7bfe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d95700325b775bb7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Свой мир/Магия/Некромантия.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0b4f939878768c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1d6343a118f2eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Свой мир/Магия/Некромантия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "792c196202c120a5",
+  "active": "1825aef246fe7e1b",
   "lastOpenFiles": [
-    "Первая заметка.md",
-    "Untitled",
-    "Welcome.md"
+    "Свой мир/Магия/Душа.md",
+    "Свой мир/Магия/Божественная паутина.md",
+    "Свой мир/Магия/Магия.md",
+    "Свой мир/Магия/Некромантия.md",
+    "Свой мир/Персонажи/~Персонажи.md",
+    "Свой мир/Карты/Карта Мира.md",
+    "Свой мир/Страны/~Страны.md",
+    "Свой мир/~Культуры.md",
+    "~Заметки/Трансформатор.md",
+    "World/Welcome.md",
+    "World",
+    "~Заметки/DI-бокс.md",
+    "~Заметки/Предуселитель.md",
+    "~Заметки/XLR.md",
+    "Свой мир/Континенты и архипелаги/Остров Титанов.md",
+    "Свой мир/Кампании/Бог Времени.md",
+    "Проекты/~Задачи.md",
+    "~Заметки/DAW.md",
+    "~Заметки/Искусство.md",
+    "Свой мир/Объединения и ордены/Пепельные Воины.md",
+    "Свой мир/Объединения и ордены/Орден Смерти.md",
+    "Свой мир/Объединения и ордены/Мертвый Легион.md",
+    "Свой мир/Магия",
+    "Свой мир/Страны/Свободный город %Название%.md",
+    "Свой мир/Объединения и ордены/~Объединения и ордены.md",
+    "Свой мир/Места и явления/~Места и явления.md",
+    "Свой мир/Континенты и архипелаги/Субконтинент - Гиббон.md",
+    "Свой мир/Континенты и архипелаги/Субконтинент - Брилинг.md",
+    "Свой мир/Объединения и ордены",
+    "Свой мир/Места и явления",
+    "Реальный мир",
+    "Свой мир/Кампании",
+    "Свой мир/Кампании/Поиск завода",
+    "Свой мир/Страны",
+    "Свой мир/Кампании/Яичная Лихорадка",
+    "Изображения/Новая Гвинея.png",
+    "Изображения/Евразия.png",
+    "Изображения",
+    "Pasted Image 20240721174558_146.png",
+    "Game/Pasted image 20240714172359.png",
+    "№1/Изображения/Устройство мира/Расположение галактик.png",
+    "№1/Изображения/Устройство мира/Планета.svg",
+    "Disielpunk/Setting/Maps/Sight map.svg",
+    "Disielpunk/Setting/Maps/Road map.svg",
+    "Disielpunk/Setting/Maps/Region map.svg",
+    "Disielpunk/Setting/Maps/Map.svg",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Журнал/Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas"
   ]
 }

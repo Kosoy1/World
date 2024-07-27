@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD _ MM _ YYYY",
+    "folder": "Журнал/Ежедневный",
+    "enabled": true,
+    "template": "templates/Daily.md"
+  },
+  "weekly": {
+    "format": "",
+    "template": "templates/Weekly.md",
+    "folder": "Журнал/Еженедельный",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
