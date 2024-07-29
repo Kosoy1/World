@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Свой мир/~Персонажи\"  ",
+      "query": "path:\"Свой мир/Персонажи\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 13640997
       }
     },
     {
@@ -64,7 +64,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.736694386694387,
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757823,
+  "scale": 0.2292013594174959,
   "close": false
 }
